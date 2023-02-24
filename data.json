@@ -1,0 +1,26 @@
+{
+    "uffici": [
+        {
+            "nome": "ced",
+            "impiegati": 4,
+            "idreparto": 1,
+            "id": 1
+        },
+        {
+            "nome": "planner",
+            "impiegati": 10,
+            "idreparto": 2,
+            "id": 2
+        }
+    ],
+    "reparti": [
+        {
+            "nome": "IT",
+            "id": 1
+        },
+        {
+            "nome": "operativo",
+            "id": 2
+        }
+    ]
+}
